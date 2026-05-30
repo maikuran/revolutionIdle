@@ -1,1 +1,1 @@
-https://maikuran.github.io/revolutionIdle/frontend/game.html
+https://maikuran.github.io/revolutionIdle/
