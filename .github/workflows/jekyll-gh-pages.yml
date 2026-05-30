@@ -28,7 +28,7 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./frontend/game
+          source: ./frontend/game.html
           destination: ./_site
       
       - name: Upload artifact
